@@ -1,12 +1,12 @@
 env:
   Login:
-    username: 17688773923          #登录账号
-    password: 12345678aa          #登录密码
+    username: 131312313          #登录账号
+    password: 1313          #登录密码
 test:
   Login:
-    username: 17688773923          #登录账号
-    password: 12345678aa          #登录密码
+    username: 123          #登录账号
+    password: 131          #登录密码
 prodect:
   Login:
-    username: 17688773923          #登录账号
-    password: 12345678aa          #登录密码
+    username: 123          #登录账号
+    password: 23432342          #登录密码
