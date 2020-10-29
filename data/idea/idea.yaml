@@ -1,6 +1,6 @@
 env:
-  loginurl: http://dev-public.apps.cloud2go.cn/public/ide/web/user/login  #登录地址
+  loginurl: https://www.baidu.com/  #登录地址
 test:
-  loginurl: http://dev-public.apps.cloud2go.cn/public/ide/web/user/login
+  loginurl: https://www.baidu.com/
 prodect:
-  loginurl: http://dev-public.apps.cloud2go.cn/public/ide/web/user/login
+  loginurl: https://www.baidu.com/
