@@ -1,5 +1,5 @@
 """
-create by 2020-10-28    author hf     learn from 虫师
+create by 2020-10-28    author hf     
 """
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
